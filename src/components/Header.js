@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { HiSun, HiMoon, HiMenu, HiX, HiSparkles } from 'react-icons/hi';
-import { FaBrain, FaRocket } from 'react-icons/fa';
+import { FaRocket } from 'react-icons/fa';
 import { useState } from 'react';
 
 const Header = ({ isDark, toggleDarkMode }) => {
@@ -44,8 +44,12 @@ const Header = ({ isDark, toggleDarkMode }) => {
                 animate={{ rotate: [0, 5, -5, 0] }}
                 transition={{ duration: 4, repeat: Infinity }}
               >
-                <div className="p-2 bg-gradient-to-r from-accent-500 to-purple-500 rounded-lg">
-                  <FaBrain className="text-white" size={20} />
+                <div className="p-2 bg-white dark:bg-primary-800 rounded-lg shadow-lg border border-primary-200 dark:border-primary-600">
+                  <img 
+                    src="/TL_logo.png" 
+                    alt="Trina Lynus Logo" 
+                    className="w-6 h-6 object-contain"
+                  />
                 </div>
                 <motion.div
                   className="absolute -top-1 -right-1"
