@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { HiBriefcase, HiCalendar } from 'react-icons/hi';
+import { HiCalendar } from 'react-icons/hi';
 import experienceData from '../data/experience.json';
 
 const Experience = () => {
