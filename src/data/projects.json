@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "VocaHarmonica (VH)",
+    "description": "AI-driven vocal harmony generation system that processes user vocals and produces musically aligned harmonies using audio intelligence pipelines. Designed for real-time interaction, downloadable outputs, and creative augmentation.",
+    "tech": ["PyTorch", "Audio ML", "Music Theory", "FastAPI", "Real-time Processing"],
+    "github": null,
+    "featured": true,
+    "category": "Speech & Audio AI"
+  },
+  {
+    "id": 2,
+    "title": "Speech Converter Pipeline (NEXUS)",
+    "description": "End-to-end speech AI system converting speech → text → refined speech with audio enhancement. Production-ready pipeline with multimodal learning capabilities.",
+    "tech": ["Distil-Whisper", "SpeechT5", "Audio Processing", "Pipeline Design"],
+    "github": null,
+    "featured": true,
+    "category": "Speech & Audio AI"
+  },
+  {
+    "id": 3,
+    "title": "Agentic AI for Faculty-Centric Course Automation (NEXUS)",
+    "description": "Agent-based AI system that converts syllabus PDFs into time-aware academic content: PPTs, PDFs, audio scripts, and video plans. Reduces faculty workload through intelligent automation.",
+    "tech": ["Agentic AI", "PDF Processing", "Content Generation", "Workflow Automation"],
+    "github": null,
+    "featured": true,
+    "category": "Agentic AI"
+  },
+  {
+    "id": 4,
+    "title": "CogniFriend",
+    "description": "AI-powered personalized tutoring system using BERT-LSTM and transformer models (LLaMA-based). Adaptive learning via sentiment analysis, dynamic quizzes, and student profiling.",
+    "tech": ["BERT", "LSTM", "LLaMA", "Sentiment Analysis", "Adaptive Learning"],
+    "github": null,
+    "featured": true,
+    "category": "NLP & Education AI"
+  },
+  {
+    "id": 5,
+    "title": "MoodBot Café",
+    "description": "Full-stack emotion-aware conversational AI platform with secure authentication, RESTful APIs, and responsive dashboards. Designed for empathetic interaction and mental wellness support using NLP techniques.",
+    "tech": ["React", "Node.js", "Express", "MongoDB", "Conversational AI", "NLP"],
+    "github": "https://github.com/TrinaLynus011/Moodbot-Cafe",
+    "featured": true,
+    "category": "Web Systems"
+  },
+  {
+    "id": 6,
+    "title": "Krishi Sakhi (SIH 2025)",
+    "description": "AI-powered multilingual farming assistant with personalized chatbot intelligence. Integrated live weather, pest alerts, crop stages, market data, and voice interaction.",
+    "tech": ["Multilingual NLP", "Conversational AI", "Voice Processing", "Agricultural Data"],
+    "github": null,
+    "featured": false,
+    "category": "Applied AI"
+  },
+  {
+    "id": 7,
+    "title": "AlertNet",
+    "description": "AI-based real-time accident detection and emergency alert system using computer vision (YOLO). Focus on safety-critical ML systems and real-time inference.",
+    "tech": ["YOLO", "Computer Vision", "Real-time ML", "Safety Systems"],
+    "github": null,
+    "featured": false,
+    "category": "Computer Vision"
+  },
+  {
+    "id": 8,
+    "title": "Gmail Summary App",
+    "description": "API-driven productivity tool integrating Gmail APIs and NLP pipelines to summarize long email threads into concise highlights. Built with Node.js backend and clean frontend interface.",
+    "tech": ["Node.js", "Express.js", "Google APIs", "NLP", "REST APIs"],
+    "github": "https://github.com/TrinaLynus011/Gmail-Summary",
+    "featured": false,
+    "category": "Web Systems"
+  },
+  {
+    "id": 9,
+    "title": "Solar Campus (Google × GFG Hackathon)",
+    "description": "ML-driven solar panel recommendation engine using geospatial and weather data. XGBoost-based decision system for sustainability impact.",
+    "tech": ["XGBoost", "Geospatial ML", "Weather Data", "Recommendation Systems"],
+    "github": null,
+    "featured": false,
+    "category": "Applied ML"
+  },
+  {
+    "id": 10,
+    "title": "Cosmic Cruise",
+    "description": "Full-stack web platform simulating space tourism exploration and booking, focused on clean UI design, dynamic components, and scalable backend APIs. Demonstrates end-to-end web engineering skills.",
+    "tech": ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB", "REST APIs"],
+    "github": null,
+    "featured": false,
+    "category": "Web Systems"
+  },
+  {
+    "id": 11,
+    "title": "BookBee",
+    "description": "Hybrid recommendation system (collaborative + content-based) with gamified discovery. Emphasizes algorithmic thinking and personalization strategies.",
+    "tech": ["Recommendation Systems", "Collaborative Filtering", "Content-Based Filtering", "Java"],
+    "github": null,
+    "featured": false,
+    "category": "ML Systems"
+  },
+  {
+    "id": 12,
+    "title": "AYLA – From Silhouette to Stitch",
+    "description": "AI-assisted fashion tech platform enabling body-aware, interactive garment design for Indian wear using computer vision and ML.",
+    "tech": ["Computer Vision", "Body Analysis", "Fashion AI", "Interactive Design"],
+    "github": null,
+    "featured": false,
+    "category": "Applied AI"
+  }
+]

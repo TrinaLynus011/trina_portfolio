@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Applied Generative AI & Natural Language Processing",
+    "platform": "Udemy",
+    "category": "AI & NLP",
+    "focus": "Generative AI, NLP pipelines, LLM fundamentals, real-world applications"
+  },
+  {
+    "title": "Introduction to Large Language Models (LLMs)",
+    "platform": "NPTEL",
+    "category": "AI & NLP",
+    "focus": "Transformer-based models, LLM foundations, language intelligence"
+  },
+  {
+    "title": "Responsible and Safe AI Systems (ELITE)",
+    "platform": "NPTEL",
+    "category": "AI & NLP",
+    "focus": "Ethical AI, trustworthy ML systems, governance"
+  },
+  {
+    "title": "Machine Learning with Python",
+    "platform": "Kaggle",
+    "category": "Machine Learning",
+    "focus": "Supervised/unsupervised ML, evaluation, pipelines"
+  },
+  {
+    "title": "Data Science with Python",
+    "platform": "Cisco",
+    "category": "Machine Learning",
+    "focus": "Data analysis, modeling, Python-based workflows"
+  },
+  {
+    "title": "Data Analytics Essentials",
+    "platform": "Cisco",
+    "category": "Machine Learning",
+    "focus": "Data-driven decision-making, analytics foundations"
+  },
+  {
+    "title": "Python for Data Analysis (Pandas & NumPy)",
+    "platform": "Kaggle",
+    "category": "Machine Learning",
+    "focus": "Data manipulation, preprocessing, visualization"
+  },
+  {
+    "title": "Data Visualization",
+    "platform": "Kaggle",
+    "category": "Machine Learning",
+    "focus": "Exploratory analysis, insights communication"
+  },
+  {
+    "title": "Microsoft Azure AI Fundamentals",
+    "platform": "Microsoft",
+    "category": "Cloud & Platforms",
+    "focus": "AI workloads, ML concepts, Azure AI services"
+  },
+  {
+    "title": "Oracle Cloud Infrastructure – AI Foundations Associate",
+    "platform": "Oracle",
+    "category": "Cloud & Platforms",
+    "focus": "Cloud-based AI services and fundamentals"
+  },
+  {
+    "title": "JavaScript Essentials 1",
+    "platform": "Cisco",
+    "category": "Web & Systems",
+    "focus": "Core JavaScript, programming fundamentals"
+  },
+  {
+    "title": "JavaScript Essentials 2",
+    "platform": "Cisco",
+    "category": "Web & Systems",
+    "focus": "Advanced JS concepts, application logic"
+  },
+  {
+    "title": "Industry 4.0 and Industrial Internet of Things (IIoT) (ELITE)",
+    "platform": "NPTEL",
+    "category": "Web & Systems",
+    "focus": "Cyber-physical systems, automation, industrial data"
+  },
+  {
+    "title": "User Experience (UX) Design Fundamentals",
+    "platform": "IBM",
+    "category": "Design & UX",
+    "focus": "Human-centered design, usability principles"
+  }
+]

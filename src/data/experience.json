@@ -1,0 +1,22 @@
+[
+  {
+    "company": "SymphonyAI",
+    "role": "Software Intern",
+    "period": "Summer 2024",
+    "description": [
+      "Worked with AI-driven microservices in industrial environments",
+      "Gained exposure to production ML systems and intelligent automation pipelines",
+      "Contributed to data processing workflows and model deployment strategies"
+    ]
+  },
+  {
+    "company": "Computer Technology Center, Karunya University",
+    "role": "AI Research Assistant",
+    "period": "Summer 2025",
+    "description": [
+      "Developed intelligent systems for academic content automation",
+      "Implemented NLP pipelines for document processing and content generation",
+      "Designed agentic AI workflows for faculty productivity enhancement"
+    ]
+  }
+]

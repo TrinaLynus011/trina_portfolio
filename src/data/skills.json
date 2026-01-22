@@ -1,0 +1,54 @@
+{
+  "Natural Language Processing": [
+    "Text preprocessing & tokenization",
+    "Embeddings & language modeling",
+    "Transformer architectures",
+    "BERT & LSTM models",
+    "Prompt engineering",
+    "NLP pipeline design"
+  ],
+  "Generative AI": [
+    "LLM-powered applications",
+    "Text summarization & rewriting",
+    "Conversational AI systems",
+    "Agentic AI workflows",
+    "Multimodal generation"
+  ],
+  "Speech & Audio Intelligence": [
+    "Speech-to-Text (Whisper)",
+    "Text-to-Speech (SpeechT5)",
+    "Audio enhancement pipelines",
+    "Noise reduction & normalization",
+    "Audio synthesis"
+  ],
+  "Machine Learning": [
+    "Supervised & unsupervised learning",
+    "Feature engineering",
+    "Model evaluation & validation",
+    "XGBoost & ensemble methods",
+    "Cross-validation strategies"
+  ],
+  "Data Engineering": [
+    "Data ingestion pipelines",
+    "Structured & unstructured data",
+    "SQL optimization",
+    "Schema design",
+    "Analytics-ready datasets"
+  ],
+  "Programming & Frameworks": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "Flask",
+    "FastAPI",
+    "REST APIs"
+  ],
+  "Data & Tools": [
+    "Pandas & NumPy",
+    "PyTorch",
+    "MongoDB & MySQL",
+    "Git & GitHub",
+    "Docker",
+    "Linux"
+  ]
+}
