@@ -15,35 +15,35 @@ import skillsData from '../data/skills.json';
 
 const Skills = () => {
   const iconMap = {
-    'Python': SiPython,
-    'Java': HiCode,
+    'React.js & Next.js': SiPytorch, // Using available icons
     'JavaScript': SiJavascript,
-    'Flask': SiFlask,
-    'PyTorch': SiPytorch,
+    'Python': SiPython,
+    'Node.js & Express.js': SiJavascript,
     'MongoDB & MySQL': SiMongodb,
     'Git & GitHub': SiGit,
     'Docker': SiDocker,
+    'Flask': SiFlask,
     'Linux': SiLinux,
   };
 
   const categoryIcons = {
+    'Frontend Development': HiCode,
+    'Backend Development': HiServer,
+    'Database & Cloud': HiDatabase,
     'Natural Language Processing': HiLightBulb,
-    'Generative AI': HiChip,
+    'AI & Machine Learning': HiChip,
     'Speech & Audio Intelligence': HiMicrophone,
-    'Machine Learning': HiCog,
-    'Data Engineering': HiDatabase,
-    'Programming & Frameworks': HiCode,
-    'Data & Tools': HiServer,
+    'Development Tools & Practices': HiCog,
   };
 
   const categoryColors = {
-    'Natural Language Processing': 'from-blue-500 to-cyan-500',
-    'Generative AI': 'from-purple-500 to-violet-500',
-    'Speech & Audio Intelligence': 'from-green-500 to-emerald-500',
-    'Machine Learning': 'from-orange-500 to-red-500',
-    'Data Engineering': 'from-indigo-500 to-blue-500',
-    'Programming & Frameworks': 'from-pink-500 to-rose-500',
-    'Data & Tools': 'from-teal-500 to-cyan-500',
+    'Frontend Development': 'from-blue-500 to-cyan-500',
+    'Backend Development': 'from-green-500 to-emerald-500',
+    'Database & Cloud': 'from-purple-500 to-violet-500',
+    'Natural Language Processing': 'from-orange-500 to-red-500',
+    'AI & Machine Learning': 'from-pink-500 to-rose-500',
+    'Speech & Audio Intelligence': 'from-indigo-500 to-blue-500',
+    'Development Tools & Practices': 'from-teal-500 to-cyan-500',
   };
 
   return (
@@ -91,7 +91,7 @@ const Skills = () => {
               viewport={{ once: true }}
             />
             <p className="text-lg text-primary-600 dark:text-primary-300 max-w-2xl mx-auto">
-              Specialized in AI & NLP with full-stack engineering capabilities for end-to-end system delivery.
+              Full-stack engineering expertise spanning modern web development and cutting-edge AI/ML systems.
             </p>
           </motion.div>
 

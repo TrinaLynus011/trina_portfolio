@@ -1,22 +1,23 @@
-# Trina Lynus - AI & NLP Engineer Portfolio
+# Trina Lynus - Full-Stack Engineer & AI/ML Specialist Portfolio
 
-A modern, responsive portfolio website showcasing AI/ML engineering expertise, NLP research capabilities, and the AYLA fashion technology venture. Built with React, Tailwind CSS, and enhanced with game-like interactions.
+A modern, responsive portfolio website showcasing expertise across AI/ML, data science, digital twin systems, and full-stack web development, plus the AYLA fashion technology venture. Built with React, Tailwind CSS, and enhanced with game-like interactions.
 
 ## 🧠 About
 
-**Trina Lynus** is an AI & NLP Engineer who designs intelligent, data-driven systems by combining cutting-edge research with production-ready engineering. Also the Founder & CEO of **AYLA**, a multidisciplinary venture at the intersection of fashion technology, digital experiences, and creative technology.
+**Trina Lynus** works across AI/ML, data science, digital twin systems, and full-stack web development, with a focus on building end-to-end software that connects data, intelligence, and user experience. Her background allows her to move comfortably between model development, data pipelines, backend services, and modern frontend applications. Also the Founder & CEO of **AYLA**, a multidisciplinary venture at the intersection of fashion technology, digital experiences, and creative technology.
 
 ## ✨ Features
 
-- **Dual Identity Showcase**: AI/ML Engineer + Fashion Tech Founder
+- **Balanced Technical Identity**: Full-Stack Web Development + AI/ML Specialization
+- **Comprehensive Skill Showcase**: Frontend, Backend, Database, Cloud, AI/ML, and Development Practices
 - **Game-like Interactions**: Floating particles, animated gradients, and smooth hover effects
-- **Premium Navigation**: Enhanced header with role separation and animated elements
+- **Premium Navigation**: Enhanced header with balanced role representation
 - **AYLA Venture Section**: Dedicated showcase for fashion technology startup
-- **Project Filtering**: AI/NLP vs Web Systems categorization
+- **Project Filtering**: AI/NLP vs Web Development categorization
 - **14+ Certifications**: Comprehensive display with category filtering
 - **Dark Mode**: System preference detection with manual toggle
 - **Fully Responsive**: Mobile-first design optimized for all devices
-- **SEO Optimized**: Enhanced meta tags for AI/ML and fashion tech keywords
+- **SEO Optimized**: Enhanced meta tags for both web development and AI/ML keywords
 
 ## 🚀 Tech Stack
 
@@ -29,11 +30,17 @@ A modern, responsive portfolio website showcasing AI/ML engineering expertise, N
 
 ## 🎯 Key Sections
 
-### 🤖 AI & NLP Engineering
-- **Technical Expertise**: 7 specialized skill categories
-- **Featured Projects**: VocaHarmonica, Speech Converter Pipeline, Agentic AI systems
-- **Research Focus**: Natural Language Processing, Generative AI, Speech Intelligence
-- **Professional Experience**: SymphonyAI, Computer Technology Center
+### 💻 Full-Stack Web Development
+- **Frontend**: React.js, Next.js, JavaScript/TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express.js, Python, Flask/FastAPI
+- **Database & Cloud**: MongoDB, MySQL, AWS, Azure, Docker
+- **Development Practices**: Git workflows, Testing, Agile methodologies
+
+### 🤖 AI/ML & Data Science
+- **AI/ML Systems**: PyTorch, TensorFlow, supervised/unsupervised learning
+- **NLP & Speech**: Text processing, embeddings, transformer architectures, speech AI
+- **Data Science**: Feature engineering, model evaluation, data pipelines
+- **Digital Twin Systems**: Simulation-driven approaches bridging physical and digital systems
 
 ### 🚀 AYLA Venture
 - **Fashion Technology**: AI-driven design tools and smart textile innovation
@@ -43,9 +50,9 @@ A modern, responsive portfolio website showcasing AI/ML engineering expertise, N
 - **Contact**: fashions.ayla@gmail.com (AYLA-specific inquiries)
 
 ### 🏆 Achievements
-- **10+ AI Projects** across NLP, Speech AI, and Computer Vision
+- **12+ Projects** spanning Full-Stack Web Apps and AI/ML Systems
 - **3 Hackathon Wins** including Google × GFG (Top 6/608 teams)
-- **14+ Certifications** from NPTEL, Microsoft, Oracle, Cisco, Kaggle
+- **15+ Certifications** from NPTEL, Microsoft, Oracle, Cisco, Kaggle, FreeCodeCamp
 - **Academic Excellence**: SGPA 9.38, IEEE Computer Society Secretary
 
 ## 📁 Project Structure
@@ -65,7 +72,7 @@ src/
 │   └── Footer.js       # Enhanced footer with both identities
 ├── data/               # JSON data files
 │   ├── projects.json   # 12 projects (AI/ML + Web Systems)
-│   ├── skills.json     # 7 specialized skill categories
+│   ├── skills.json     # 7 balanced skill categories
 │   ├── experience.json # Professional experience
 │   └── certifications.json # 14 structured certifications
 ├── hooks/              # Custom React hooks
@@ -179,9 +186,9 @@ All content is managed through JSON files in the `src/data/` directory:
 
 ## 📧 Contact Strategy
 
-### AI/ML Opportunities
+### Full-Stack Engineering Opportunities
 - **Email**: trinajoanlynus@gmail.com
-- **Focus**: AI/ML engineering roles, NLP research, technical collaborations
+- **Focus**: Full-stack web development, AI/ML engineering, modern web applications
 - **GitHub**: [@TrinaLynus011](https://github.com/TrinaLynus011)
 - **LinkedIn**: [trina-lynus](https://linkedin.com/in/trina-lynus)
 
@@ -192,11 +199,12 @@ All content is managed through JSON files in the `src/data/` directory:
 
 ## 🌟 Key Differentiators
 
-1. **Dual Professional Identity**: Successfully balances technical expertise with entrepreneurial vision
-2. **Research-to-Production**: Demonstrates ability to translate AI research into scalable applications
-3. **Founder Experience**: Active startup leadership in fashion technology space
-4. **Technical Depth**: 14+ certifications across AI, ML, cloud platforms, and engineering
-5. **Game-like UX**: Engaging, interactive design that stands out from typical portfolios
+1. **Balanced Technical Identity**: Successfully showcases both full-stack web development and AI/ML expertise
+2. **End-to-End Capabilities**: Demonstrates ability to build complete systems from frontend to AI backend
+3. **Modern Tech Stack**: Proficiency in React, Node.js, Python, and cutting-edge AI frameworks
+4. **Founder Experience**: Active startup leadership in fashion technology space
+5. **Comprehensive Skills**: 14+ certifications across web development, AI, cloud platforms, and engineering
+6. **Game-like UX**: Engaging, interactive design that stands out from typical portfolios
 
 ## 📱 Browser Support
 
@@ -216,4 +224,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Trina Lynus** - *Building intelligent systems that solve real problems and creating the future where AI meets artistry.*
+**Trina Lynus** - *Building connected systems where data, models, APIs, and interfaces work together—bridging AI/ML, data science, digital twin systems, and modern web development to create technically sound and genuinely useful solutions.*

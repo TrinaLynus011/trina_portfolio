@@ -29,22 +29,24 @@ const About = () => {
             <div className="bg-primary-50 dark:bg-primary-800 rounded-2xl p-8 md:p-12">
               <div className="prose prose-lg dark:prose-invert max-w-none">
                 <p className="text-primary-700 dark:text-primary-200 leading-relaxed mb-6">
-                  I'm an AI & NLP engineer who designs intelligent, data-driven systems, translating 
-                  research concepts into scalable, real-world applications. My expertise spans natural 
-                  language processing, speech AI, agentic workflows, and data pipelines.
+                  I work across AI/ML, data science, digital twin systems, and full-stack web development, 
+                  with a focus on building end-to-end software that connects data, intelligence, and user 
+                  experience. My background allows me to move comfortably between model development, data 
+                  pipelines, backend services, and modern frontend applications.
                 </p>
                 
                 <p className="text-primary-700 dark:text-primary-200 leading-relaxed mb-6">
-                  I focus on building end-to-end intelligent systems—from model training and pipeline 
-                  design to production deployment. My experience includes generative AI applications, 
-                  multimodal systems, and conversational AI platforms that solve real problems with 
-                  thoughtful engineering.
+                  I have hands-on experience applying machine learning and NLP concepts, working with 
+                  structured and unstructured data, and integrating these capabilities into production-oriented 
+                  web systems using the MERN stack. I am also interested in simulation-driven and digital 
+                  twin–based approaches that bridge physical systems with data and software.
                 </p>
                 
                 <p className="text-primary-700 dark:text-primary-200 leading-relaxed">
-                  Web development serves as my delivery and integration layer, enabling AI systems 
-                  to reach users effectively. I thrive in environments where technical excellence 
-                  meets research innovation and product impact.
+                  Rather than focusing on a single domain, I approach engineering as a connected system—where 
+                  data, models, APIs, and interfaces work together. I value clear architecture, practical 
+                  implementation, and continuous learning, and I am motivated by building systems that are 
+                  both technically sound and genuinely useful.
                 </p>
               </div>
             </div>

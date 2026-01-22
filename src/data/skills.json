@@ -1,4 +1,28 @@
 {
+  "Frontend Development": [
+    "React.js & Next.js",
+    "JavaScript (ES6+) & TypeScript",
+    "HTML5 & CSS3",
+    "Tailwind CSS & Styled Components",
+    "Responsive Design & Mobile-First",
+    "State Management (Redux, Context)"
+  ],
+  "Backend Development": [
+    "Node.js & Express.js",
+    "Python & Flask/FastAPI",
+    "RESTful APIs & GraphQL",
+    "Authentication & Authorization",
+    "Microservices Architecture",
+    "API Design & Documentation"
+  ],
+  "Database & Cloud": [
+    "MongoDB & MySQL",
+    "Database Design & Optimization",
+    "AWS & Azure Cloud Services",
+    "Docker & Containerization",
+    "CI/CD Pipelines",
+    "Serverless Architecture"
+  ],
   "Natural Language Processing": [
     "Text preprocessing & tokenization",
     "Embeddings & language modeling",
@@ -7,48 +31,28 @@
     "Prompt engineering",
     "NLP pipeline design"
   ],
-  "Generative AI": [
+  "AI & Machine Learning": [
+    "PyTorch & TensorFlow",
+    "Supervised & unsupervised learning",
+    "Feature engineering & model evaluation",
     "LLM-powered applications",
-    "Text summarization & rewriting",
     "Conversational AI systems",
-    "Agentic AI workflows",
-    "Multimodal generation"
+    "Agentic AI workflows"
   ],
   "Speech & Audio Intelligence": [
     "Speech-to-Text (Whisper)",
     "Text-to-Speech (SpeechT5)",
     "Audio enhancement pipelines",
-    "Noise reduction & normalization",
-    "Audio synthesis"
+    "Real-time audio processing",
+    "Voice user interfaces",
+    "Audio synthesis & generation"
   ],
-  "Machine Learning": [
-    "Supervised & unsupervised learning",
-    "Feature engineering",
-    "Model evaluation & validation",
-    "XGBoost & ensemble methods",
-    "Cross-validation strategies"
-  ],
-  "Data Engineering": [
-    "Data ingestion pipelines",
-    "Structured & unstructured data",
-    "SQL optimization",
-    "Schema design",
-    "Analytics-ready datasets"
-  ],
-  "Programming & Frameworks": [
-    "Python",
-    "Java",
-    "JavaScript",
-    "Flask",
-    "FastAPI",
-    "REST APIs"
-  ],
-  "Data & Tools": [
-    "Pandas & NumPy",
-    "PyTorch",
-    "MongoDB & MySQL",
-    "Git & GitHub",
-    "Docker",
-    "Linux"
+  "Development Tools & Practices": [
+    "Git & GitHub workflows",
+    "Testing (Jest, Cypress, PyTest)",
+    "Agile & Scrum methodologies",
+    "Code review & pair programming",
+    "Performance optimization",
+    "Security best practices"
   ]
 }

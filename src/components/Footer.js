@@ -75,14 +75,16 @@ const Footer = () => {
             </div>
             
             <div className="flex items-center justify-center space-x-4 mb-8">
-              <span className="text-accent-300 font-medium">AI & NLP Engineer</span>
+              <span className="text-accent-300 font-medium">Full-Stack Engineer</span>
               <div className="w-1 h-1 bg-primary-400 rounded-full"></div>
-              <span className="text-purple-300 font-medium">AYLA Founder</span>
+              <span className="text-purple-300 font-medium">AI Specialist</span>
+              <div className="w-1 h-1 bg-primary-400 rounded-full"></div>
+              <span className="text-pink-300 font-medium">AYLA Founder</span>
             </div>
 
             <p className="text-primary-300 mb-8 max-w-2xl mx-auto">
-              Building intelligent systems that solve real problems and creating the future 
-              where AI meets artistry through innovative ventures.
+              Building intelligent web systems that bridge cutting-edge AI research with 
+              production-ready applications, while creating the future of fashion technology.
             </p>
 
             {/* Social links */}
@@ -137,13 +139,13 @@ const Footer = () => {
               viewport={{ once: true }}
               className="grid grid-cols-1 md:grid-cols-2 gap-6"
             >
-              {/* AI/ML Opportunities */}
+              {/* Web Development & AI Opportunities */}
               <div className="bg-primary-800/50 backdrop-blur-sm rounded-2xl p-6 border border-primary-700">
                 <h4 className="text-lg font-semibold text-accent-300 mb-2">
-                  AI/ML Opportunities
+                  Web Development & AI Opportunities
                 </h4>
                 <p className="text-primary-200 text-sm mb-4">
-                  Ready to build intelligent systems together?
+                  Ready to build intelligent web systems together?
                 </p>
                 <motion.a
                   href="mailto:trinajoanlynus@gmail.com"
@@ -152,7 +154,7 @@ const Footer = () => {
                   whileTap={{ scale: 0.95 }}
                 >
                   <HiMail className="mr-2" size={16} />
-                  Connect for AI/ML Roles
+                  Connect for Engineering Roles
                 </motion.a>
               </div>
 

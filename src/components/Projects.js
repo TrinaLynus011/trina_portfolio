@@ -8,15 +8,15 @@ const Projects = () => {
   const [filter, setFilter] = useState('all');
   const [showAll, setShowAll] = useState(false);
   
-  const categories = ['all', 'AI/NLP', 'Web Systems'];
+  const categories = ['all', 'AI/NLP', 'Web Development'];
   
   const filteredProjects = projectsData.filter(project => {
     if (filter === 'all') return true;
     if (filter === 'AI/NLP') {
       return ['Speech & Audio AI', 'Agentic AI', 'NLP & Education AI', 'Applied AI', 'Computer Vision', 'Applied ML', 'ML Systems'].includes(project.category);
     }
-    if (filter === 'Web Systems') {
-      return project.category === 'Web Systems';
+    if (filter === 'Web Development') {
+      return project.category === 'Web Development';
     }
     return false;
   });
@@ -57,6 +57,7 @@ const Projects = () => {
 
   const ProjectCard = ({ project, index }) => {
     const isAI = ['Speech & Audio AI', 'Agentic AI', 'NLP & Education AI', 'Applied AI', 'Computer Vision', 'Applied ML', 'ML Systems'].includes(project.category);
+    const isWeb = project.category === 'Web Development';
     
     return (
       <motion.div
@@ -71,7 +72,11 @@ const Projects = () => {
         {/* Animated background gradient */}
         <motion.div
           className={`absolute inset-0 opacity-0 group-hover:opacity-10 transition-opacity duration-300 ${
-            isAI ? 'bg-gradient-to-br from-purple-500 to-pink-500' : 'bg-gradient-to-br from-blue-500 to-cyan-500'
+            isAI 
+              ? 'bg-gradient-to-br from-purple-500 to-pink-500' 
+              : isWeb 
+                ? 'bg-gradient-to-br from-blue-500 to-cyan-500'
+                : 'bg-gradient-to-br from-gray-500 to-gray-600'
           }`}
           initial={false}
           animate={{ scale: [1, 1.1, 1] }}

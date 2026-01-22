@@ -62,8 +62,8 @@ const Contact = () => {
             </h2>
             <div className="w-20 h-1 bg-accent-500 mx-auto mb-6"></div>
             <p className="text-lg text-primary-600 dark:text-primary-300 max-w-2xl mx-auto">
-              I am actively seeking AI/ML Engineering and NLP Research opportunities where I can 
-              contribute to building intelligent, impactful systems.
+              I am actively seeking Full-Stack Engineering and AI/ML opportunities where I can 
+              contribute to building intelligent, scalable web systems and innovative AI applications.
             </p>
           </motion.div>
 
@@ -109,10 +109,10 @@ const Contact = () => {
 
               <div className="bg-white dark:bg-primary-900 rounded-2xl p-6">
                 <p className="text-primary-700 dark:text-primary-200 leading-relaxed">
-                  I'm passionate about creating intelligent systems that solve real-world problems 
-                  and would love to discuss how I can contribute to your AI/ML initiatives. Whether 
-                  it's NLP research, speech AI development, or building end-to-end intelligent 
-                  products, I'm ready to bring my expertise to your next breakthrough.
+                  I'm passionate about creating intelligent web systems that solve real-world problems 
+                  through the perfect blend of modern web development and cutting-edge AI. Whether 
+                  it's building full-stack applications, developing NLP systems, or creating seamless 
+                  user experiences for AI-powered platforms, I'm ready to bring my expertise to your next breakthrough.
                 </p>
               </div>
             </motion.div>

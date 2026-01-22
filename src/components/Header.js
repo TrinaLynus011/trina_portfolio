@@ -61,11 +61,11 @@ const Header = ({ isDark, toggleDarkMode }) => {
                   Trina Lynus
                 </span>
                 <div className="flex items-center space-x-2 text-xs">
-                  <span className="text-accent-600 dark:text-accent-400 font-medium">AI Engineer</span>
+                  <span className="text-accent-600 dark:text-accent-400 font-medium">Full-Stack Engineer</span>
                   <div className="w-1 h-1 bg-primary-400 rounded-full"></div>
                   <div className="flex items-center space-x-1">
                     <FaRocket className="text-purple-500" size={10} />
-                    <span className="text-purple-600 dark:text-purple-400 font-medium">Founder</span>
+                    <span className="text-purple-600 dark:text-purple-400 font-medium">AI Specialist</span>
                   </div>
                 </div>
               </div>

@@ -98,7 +98,7 @@ const Certifications = () => {
               viewport={{ once: true }}
             />
             <p className="text-lg text-primary-600 dark:text-primary-300 max-w-2xl mx-auto">
-              14+ authenticated courses and certifications across AI, ML, cloud platforms, and engineering foundations.
+              15+ authenticated courses and certifications across AI/ML, web development, cloud platforms, and engineering foundations.
             </p>
           </motion.div>
 
@@ -214,7 +214,7 @@ const Certifications = () => {
           >
             <div className="flex flex-wrap justify-center gap-8">
               {[
-                { label: "Total Certifications", value: "14+", icon: HiAcademicCap },
+                { label: "Total Certifications", value: "15+", icon: HiAcademicCap },
                 { label: "NPTEL ELITE", value: "2", icon: HiBadgeCheck },
                 { label: "Platform Coverage", value: "7", icon: HiSparkles }
               ].map((stat, index) => (

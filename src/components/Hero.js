@@ -8,10 +8,10 @@ const Hero = () => {
   const [particles, setParticles] = useState([]);
 
   const roles = [
-    { text: "AI & NLP Engineer", icon: FaBrain, color: "from-purple-500 to-pink-500" },
-    { text: "Intelligent Systems Designer", icon: FaRobot, color: "from-blue-500 to-cyan-500" },
-    { text: "Speech AI Specialist", icon: FaMicrophone, color: "from-green-500 to-emerald-500" },
-    { text: "Agentic AI Developer", icon: HiCog, color: "from-orange-500 to-red-500" }
+    { text: "AI/ML Engineer", icon: FaBrain, color: "from-purple-500 to-pink-500" },
+    { text: "Full-Stack Developer", icon: FaRobot, color: "from-blue-500 to-cyan-500" },
+    { text: "Data Scientist", icon: FaMicrophone, color: "from-green-500 to-emerald-500" },
+    { text: "Systems Architect", icon: HiCog, color: "from-orange-500 to-red-500" }
   ];
 
   const scrollToProjects = () => {
@@ -173,9 +173,9 @@ const Hero = () => {
             className="mb-10"
           >
             <p className="text-lg md:text-xl text-primary-600 dark:text-primary-300 mb-6 max-w-4xl mx-auto leading-relaxed">
-              I design and build intelligent, data-driven systems by combining cutting-edge AI & NLP research 
-              with production-ready engineering—from model training and agentic workflows to scalable, 
-              user-centric applications.
+              I work across AI/ML, data science, digital twin systems, and full-stack web development, 
+              building end-to-end software that connects data, intelligence, and user experience through 
+              scalable, production-ready applications.
             </p>
             
             <motion.div
@@ -184,7 +184,7 @@ const Hero = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.8 }}
             >
-              {["Natural Language Processing", "Generative AI", "Speech Intelligence", "Agentic Systems"].map((skill, index) => (
+              {["AI/ML & Data Science", "Full-Stack Development", "Digital Twin Systems", "Web Applications"].map((skill, index) => (
                 <motion.span
                   key={skill}
                   initial={{ opacity: 0, scale: 0.8 }}
@@ -266,7 +266,7 @@ const Hero = () => {
             {[
               { label: "AI Projects", value: "10+", icon: FaBrain },
               { label: "Hackathon Wins", value: "3", icon: HiSparkles },
-              { label: "Certifications", value: "14+", icon: HiLightBulb }
+              { label: "Certifications", value: "15+", icon: HiLightBulb }
             ].map((stat, index) => (
               <motion.div
                 key={stat.label}
@@ -291,7 +291,7 @@ const Hero = () => {
             className="mt-8"
           >
             <p className="text-sm text-primary-500 dark:text-primary-400 mb-4">
-              Web development as the delivery layer enabling AI systems to reach users
+              Bridging AI intelligence with web engineering excellence
             </p>
             <motion.div 
               className="w-px h-16 bg-gradient-to-b from-accent-500 to-transparent mx-auto"
