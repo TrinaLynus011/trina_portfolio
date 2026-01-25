@@ -10,7 +10,7 @@ const Hero = () => {
   const roles = [
     { text: "AI/ML Engineer", icon: FaBrain, color: "from-purple-500 to-pink-500" },
     { text: "Full-Stack Developer", icon: FaRobot, color: "from-blue-500 to-cyan-500" },
-    { text: "Data Scientist", icon: FaMicrophone, color: "from-green-500 to-emerald-500" },
+    { text: "Data Engineer", icon: FaMicrophone, color: "from-green-500 to-emerald-500" },
     { text: "Systems Architect", icon: HiCog, color: "from-orange-500 to-red-500" }
   ];
 
@@ -59,7 +59,7 @@ const Hero = () => {
   const CurrentIcon = currentRoleData.icon;
 
   return (
-    <section className="min-h-screen flex items-center justify-center relative overflow-hidden bg-gradient-to-br from-primary-50 via-accent-50 to-purple-50 dark:from-primary-900 dark:via-primary-800 dark:to-purple-900 pt-20">
+    <section className="min-h-screen flex items-center justify-center relative overflow-hidden bg-gradient-to-br from-primary-50 via-accent-50 to-purple-50 dark:from-primary-900 dark:via-primary-800 dark:to-purple-900 pt-32">
       {/* Animated Background */}
       <div className="absolute inset-0">
         {/* Floating particles */}
@@ -173,9 +173,7 @@ const Hero = () => {
             className="mb-10"
           >
             <p className="text-lg md:text-xl text-primary-600 dark:text-primary-300 mb-6 max-w-4xl mx-auto leading-relaxed">
-              I work across AI/ML, data science, digital twin systems, and full-stack web development, 
-              building end-to-end software that connects data, intelligence, and user experience through 
-              scalable, production-ready applications.
+              Web Engineer with strong foundations in backend data handling and applied NLP systems. Experienced in building MERN-stack web applications, REST APIs, and data-driven platforms. Built backend-driven systems handling structured and semi-structured data, designed preprocessing pipelines for energy analytics and NLP-based projects, and implemented API-based data ingestion workflows. Hands-on exposure to Python-based data preprocessing, frontend development with React, and integrating AI/NLP models into real-world applications. Focused on clean UI, reliable backend workflows, and consistent data flow between frontend, backend, and ML components.
             </p>
             
             <motion.div

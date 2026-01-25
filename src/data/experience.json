@@ -11,12 +11,12 @@
   },
   {
     "company": "Computer Technology Center, Karunya University",
-    "role": "AI Research Assistant",
+    "role": "Web Developer Intern",
     "period": "Summer 2025",
     "description": [
-      "Developed intelligent systems for academic content automation",
-      "Implemented NLP pipelines for document processing and content generation",
-      "Designed agentic AI workflows for faculty productivity enhancement"
+      "Redesigned the Data Science and Cyber Security departmental websites to improve UI clarity, responsiveness, and content organization",
+      "Implemented reusable frontend components and improved navigation flow",
+      "Collaborated with faculty stakeholders to convert requirements into functional web interfaces"
     ]
   }
 ]

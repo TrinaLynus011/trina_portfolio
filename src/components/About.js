@@ -29,24 +29,25 @@ const About = () => {
             <div className="bg-primary-50 dark:bg-primary-800 rounded-2xl p-8 md:p-12">
               <div className="prose prose-lg dark:prose-invert max-w-none">
                 <p className="text-primary-700 dark:text-primary-200 leading-relaxed mb-6">
-                  I work across AI/ML, data science, digital twin systems, and full-stack web development, 
-                  with a focus on building end-to-end software that connects data, intelligence, and user 
-                  experience. My background allows me to move comfortably between model development, data 
-                  pipelines, backend services, and modern frontend applications.
+                  I work across web development, data engineering, and applied AI/ML systems, 
+                  with a focus on building end-to-end software that connects data processing, 
+                  intelligent features, and user experience. My background allows me to move 
+                  comfortably between data preprocessing pipelines, backend API development, 
+                  and modern frontend applications.
                 </p>
                 
                 <p className="text-primary-700 dark:text-primary-200 leading-relaxed mb-6">
                   I have hands-on experience applying machine learning and NLP concepts, working with 
-                  structured and unstructured data, and integrating these capabilities into production-oriented 
-                  web systems using the MERN stack. I am also interested in simulation-driven and digital 
-                  twin–based approaches that bridge physical systems with data and software.
+                  structured and semi-structured data through MongoDB and MySQL, and integrating these 
+                  capabilities into production-oriented web systems using the MERN stack. I focus on 
+                  reliable data workflows and consistent data flow between frontend, backend, and ML components.
                 </p>
                 
                 <p className="text-primary-700 dark:text-primary-200 leading-relaxed">
                   Rather than focusing on a single domain, I approach engineering as a connected system—where 
-                  data, models, APIs, and interfaces work together. I value clear architecture, practical 
-                  implementation, and continuous learning, and I am motivated by building systems that are 
-                  both technically sound and genuinely useful.
+                  data preprocessing, APIs, models, and interfaces work together. I value clear architecture, 
+                  practical implementation, and continuous learning, and I am motivated by building systems 
+                  that are both technically sound and genuinely useful.
                 </p>
               </div>
             </div>

@@ -40,9 +40,9 @@ const Contact = () => {
     },
     {
       name: 'LinkedIn',
-      href: 'https://linkedin.com/in/trina-lynus',
+      href: 'https://linkedin.com/in/trina-joan-lynus',
       icon: FaLinkedin,
-      label: 'linkedin.com/in/trina-lynus'
+      label: 'linkedin.com/in/trina-joan-lynus'
     }
   ];
 

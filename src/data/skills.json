@@ -1,58 +1,29 @@
 {
-  "Frontend Development": [
-    "React.js & Next.js",
-    "JavaScript (ES6+) & TypeScript",
-    "HTML5 & CSS3",
-    "Tailwind CSS & Styled Components",
-    "Responsive Design & Mobile-First",
-    "State Management (Redux, Context)"
+  "Web Development": [
+    "React.js (basic component structure, hooks)",
+    "JavaScript, HTML5, CSS3",
+    "Node.js, Express.js, Flask",
+    "REST API integration",
+    "Responsive UI development"
   ],
-  "Backend Development": [
-    "Node.js & Express.js",
-    "Python & Flask/FastAPI",
-    "RESTful APIs & GraphQL",
-    "Authentication & Authorization",
-    "Microservices Architecture",
-    "API Design & Documentation"
+  "Data & Backend Fundamentals": [
+    "Python for data preprocessing",
+    "Backend API workflows",
+    "MongoDB, MySQL (basic CRUD & schema design)",
+    "Handling structured project datasets",
+    "Feature engineering for ML projects"
   ],
-  "Database & Cloud": [
-    "MongoDB & MySQL",
-    "Database Design & Optimization",
-    "AWS & Azure Cloud Services",
-    "Docker & Containerization",
-    "CI/CD Pipelines",
-    "Serverless Architecture"
-  ],
-  "Natural Language Processing": [
+  "Applied NLP & AI (Project-Based)": [
     "Text preprocessing & tokenization",
-    "Embeddings & language modeling",
-    "Transformer architectures",
-    "BERT & LSTM models",
-    "Prompt engineering",
-    "NLP pipeline design"
-  ],
-  "AI & Machine Learning": [
-    "PyTorch & TensorFlow",
-    "Supervised & unsupervised learning",
-    "Feature engineering & model evaluation",
-    "LLM-powered applications",
+    "NLP pipeline design",
+    "BERT & LSTM model integration",
     "Conversational AI systems",
-    "Agentic AI workflows"
+    "LLM-powered applications"
   ],
-  "Speech & Audio Intelligence": [
-    "Speech-to-Text (Whisper)",
-    "Text-to-Speech (SpeechT5)",
-    "Audio enhancement pipelines",
-    "Real-time audio processing",
-    "Voice user interfaces",
-    "Audio synthesis & generation"
-  ],
-  "Development Tools & Practices": [
-    "Git & GitHub workflows",
-    "Testing (Jest, Cypress, PyTest)",
-    "Agile & Scrum methodologies",
-    "Code review & pair programming",
-    "Performance optimization",
-    "Security best practices"
+  "Tools": [
+    "Git & GitHub",
+    "Postman",
+    "VS Code",
+    "Docker (basic)"
   ]
 }

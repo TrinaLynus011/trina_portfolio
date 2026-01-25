@@ -10,7 +10,7 @@ import {
   SiFlask,
   SiLinux
 } from 'react-icons/si';
-import { HiLightBulb, HiMicrophone, HiCog, HiDatabase, HiCode, HiServer, HiChip } from 'react-icons/hi';
+import { HiCog, HiDatabase, HiCode, HiChip } from 'react-icons/hi';
 import skillsData from '../data/skills.json';
 
 const Skills = () => {
@@ -27,23 +27,17 @@ const Skills = () => {
   };
 
   const categoryIcons = {
-    'Frontend Development': HiCode,
-    'Backend Development': HiServer,
-    'Database & Cloud': HiDatabase,
-    'Natural Language Processing': HiLightBulb,
-    'AI & Machine Learning': HiChip,
-    'Speech & Audio Intelligence': HiMicrophone,
-    'Development Tools & Practices': HiCog,
+    'Web Development': HiCode,
+    'Data & Backend Fundamentals': HiDatabase,
+    'Applied NLP & AI (Project-Based)': HiChip,
+    'Tools': HiCog,
   };
 
   const categoryColors = {
-    'Frontend Development': 'from-blue-500 to-cyan-500',
-    'Backend Development': 'from-green-500 to-emerald-500',
-    'Database & Cloud': 'from-purple-500 to-violet-500',
-    'Natural Language Processing': 'from-orange-500 to-red-500',
-    'AI & Machine Learning': 'from-pink-500 to-rose-500',
-    'Speech & Audio Intelligence': 'from-indigo-500 to-blue-500',
-    'Development Tools & Practices': 'from-teal-500 to-cyan-500',
+    'Web Development': 'from-blue-500 to-cyan-500',
+    'Data & Backend Fundamentals': 'from-green-500 to-emerald-500',
+    'Applied NLP & AI (Project-Based)': 'from-purple-500 to-pink-500',
+    'Tools': 'from-teal-500 to-cyan-500',
   };
 
   return (
